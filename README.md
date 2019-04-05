@@ -1,3 +1,4 @@
+-- added new line
 # Coding-Assignment-In-Spark-Scala
 ABC Investment Bank is a prominent global bank, as part of the General Ledger System, you are required to develop a position calculation process.
 
