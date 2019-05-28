@@ -1,5 +1,9 @@
 hii
+<<<<<<< HEAD
 -------------------------
+=======
+------------------------------
+>>>>>>> newBranchInvBank_1
 ![alt Spark Tutorial](spark-tutorial-logo.png)
 
 >
