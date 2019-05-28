@@ -19,3 +19,4 @@ libraryDependencies ++= Seq(
 )
  parallelExecution in Test := false
 fork in run := false
+//added for git test
